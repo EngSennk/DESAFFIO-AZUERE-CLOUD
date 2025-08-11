@@ -212,6 +212,7 @@ Calculadora de Preços do Azure: https://azure.microsoft.com/pt-br/pricing/calcu
 
 Microsoft Learn (Trilhas de Aprendizagem Azure): https://learn.microsoft.com/pt-br/training/azure/
 
-Autor: [Seu Nome Completo]
+Autor:Diego Sena
 
-Data: [Data da Criação/Atualização]
+Data: 05/05/5025
+
